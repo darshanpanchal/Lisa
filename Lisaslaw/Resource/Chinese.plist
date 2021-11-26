@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>social_media</key>
+	<string>官方社交媒体平台</string>
+	<key>contact_number</key>
+	<string>020 7928 0276</string>
+	<key>our_team</key>
+	<string>贴近丽莎团队</string>
+	<key>contact_us</key>
+	<string>联系丽莎</string>
+	<key>about_us</key>
+	<string>关于丽莎</string>
+	<key>blog</key>
+	<string>博客</string>
+	<key>connect_osprey</key>
+	<string>连接到鱼鹰</string>
+	<key>check_case</key>
+	<string>查询/追踪您的案件情况</string>
+	<key>scan_doc</key>
+	<string>扫描上传文件给我们</string>
+	<key>read_more</key>
+	<string>阅读更多</string>
+	<key>lisa_law</key>
+	<string>Lisa&apos;s Law Solicitors</string>
+	<key>lisa_address</key>
+	<string>13 London Rd, Elephant and Castle, London SE1 6JZ</string>
+	<key>click_to_scan</key>
+	<string>单击“ +”扫描您的文档</string>
+	<key>scan_image</key>
+	<string>扫描影像</string>
+	<key>camera</key>
+	<string>相机</string>
+	<key>photos</key>
+	<string>相片</string>
+	<key>cancel</key>
+	<string>取消</string>
+	<key>connect_ospreyDetail</key>
+	<string>如果您是现有客户，并且希望通过以下方式访问文档：
+鱼鹰
+ 门户网站，请通过电子邮件将您的全名，电子邮件地址和客户参考号发送到portal@lisaslaw.co.uk，我们将通过电子邮件将您的安全登录详细信息发送给您。</string>
+	<key>continue</key>
+	<string>继续</string>
+	<key>yes</key>
+	<string>是</string>
+	<key>no</key>
+	<string>没有</string>
+	<key>scan_back_alert</key>
+	<string>请确认扫描后的图像将被取下。</string>
+	<key>alert</key>
+	<string>警报</string>
+	<key>done</key>
+	<string>完成了</string>
+	<key>new_enquiry</key>
+	<string>留言咨询/委托丽莎</string>
+	<key>name</key>
+	<string>名称</string>
+	<key>find_us</key>
+	<string>如何找到我们</string>
+	<key>email_address</key>
+	<string>联络电邮</string>
+	<key>phone number</key>
+	<string>联络电话</string>
+	<key>description</key>
+	<string>请简要说明您的情况，我们会尽快与您联系。</string>
+	<key>submit</key>
+	<string>完成递交！</string>
+	<key>about_us_detail1</key>
+	<string>我们的律师团队是经验丰富的法律专业人士。我们的多语种团队会讲多种语言，包括但不限于英语，普通话，广东话，西班牙语和意大利语。我们的律师在持续不断的专业发展中脱颖而出，与时俱进，不断更新法律和各种法规，为我们的客户提供始终如一的高质量和定制的法律服务。</string>
+	<key>about_us_detail2</key>
+	<string>我们的理念坚持以下事实：没有两个客户需求是相同的。我们以能够为客户的任何法律问题或委托提供快速解决方案的能力而感到自豪。我们始终如一地实现高目标，以确保我们的客户对我们提供的法律服务获得100％的满意。</string>
+	<key>checkout</key>
+	<string>在此处查看我们的隐私政策。</string>
+	<key>youtube_channel</key>
+	<string>同时，欢迎点此进入我们的官方中文YouTube频道了解更多</string>
+	<key>here</key>
+	<string>这里</string>
+    
+	<key>chuanli_ding</key>
+	<string>丁传礼</string>
+	<key>eli_lee</key>
+	<string>李依玲</string>
+	<key>felix_otouke</key>
+	<string>Felix Otouke</string>
+	<key>mingyan_gao</key>
+	<string>高明岩</string>
+	<key>stephanie_shi</key>
+	<string>Stephanie Shi</string>
+	<key>veasta_li</key>
+	<string>李维丝</string>
+	<key>jessie_chow</key>
+	<string>邹燕葶</string>
+	<key>kevin_wong</key>
+	<string>黄湛彦</string>
+	<key>sabrina_yuan</key>
+	<string>袁旌</string>
+	<key>yitong_guo</key>
+	<string>郭怡童</string>
+    
+    
+    <key>bhavini_bhatt</key>
+    <string>Bhavini Bhatt</string>
+    <key>bhavini_post</key>
+    <string>移民部门监督</string>
+    <key>bhavini_details</key>
+    <string>Bhavini于2003年取得律师资格，在处理各类移民案件方面有着丰富经验。
+Bhavini拥有印度Maharaja Sayajirao大学的法学学士学位。
+Bhavini于2019年9月加入丽莎律师行，即担任移民部主管。她负责处理并监督丽莎移民部的案件。
+精通语言：英语，印地语，乌尔都语，古拉提语和旁遮普语</string>
+    
+    <key>ellen_hall</key>
+    <string>罗依敏</string>
+    <key>ellen_post</key>
+    <string>诉讼部门监督</string>
+    <key>ellen_details</key>
+    <string>罗律师有超过25年的律师从业经验，包括在英国主要律师事务所担任合伙人。
+她于2019年7月加入丽莎律师行，并担任指导诉讼团队的监督职务。
+罗律师成功经办过各类型的诉讼案件，并在英国枢密院、最高法院、上诉法院和高等法院/地方法院/家庭法院/治安法院的诉讼处理方面有着丰富经验。
+罗律师拥有伦敦大学的法学学士学位和切斯特法学院的研究生文凭。精通语言：英语，广东话</string>
+   
+    <key>salina_lim</key>
+    <string>林茂月</string>
+    <key>salina_post</key>
+    <string>海外律师（认证于澳大利亚</string>
+    <key>salina_details</key>
+    <string>林律师于2011年获得昆士兰理工大学的法律学士学位，随后于2012年获得法律实践研究生文凭。
+林律师自2019年8月开始，以双语海外律师的身份在丽莎律师行工作。精通语言：英语，普通话</string>
+       
+       
+    <key>lavinder_kaur</key>
+    <string>Lavinder Kaur</string>
+    <key>lavinder_post</key>
+    <string>海外律师（认证于马来西亚）</string>
+    <key>lavinder_details</key>
+     <string>Lavinder于2017年1月获得马来西亚高等法院的辩护律师资格。
+Lavinder拥有伦敦大学法学学士学位，已在马来西亚完成法律实践课程，目前正在积极取得英国英格兰和威尔士地区的律师资格。
+Lavinder于2018年9月加入丽莎律师行，并在我们的诉讼和房产部门工作。她在马来西亚时已经累积很多法庭经验。
+精通语言：英语，普通话，广东话，马来话，客家话</string>
+             
+    <key>serena_qin</key>
+    <string>秦韵</string>
+    <key>serena_post</key>
+    <string>移民客户经理</string>
+    <key>serena_details</key>
+    <string>秦经理拥有英国移民服务管理办公室（OISC）的一级认证。
+同时，秦经理拥有北京中国矿业大学法学学士学位和伦敦大学学院法学硕士学位。
+秦经理于2018年7月加入丽莎律师行，并一直服务于我们的移民部门。精通语言：英语，普通话</string>
+             
+     <key>caryn_toh</key>
+     <string>Caryn Toh</string>
+    <key>caryn_post</key>
+    <string>实习律师</string>
+    <key>caryn_detais</key>
+    <string>Caryn拥有牛津布鲁克斯大学法学学士学位，并在布里斯托尔的法律大学完成了法律实践课程。
+Caryn于2018年9月开始在丽莎律师行担任律师助理，主力于移民、房产和诉讼团队工作，由丁律师监管。精通语言：英语，普通话，广东话，马来语</string>
+
+    <key>binger_chen</key>
+    <string>Binger Chen</string>
+    <key>binger_post</key>
+    <string>实习律师</string>
+    <key>binger_details</key>
+    <string>Binger拥有雷丁大学的法学硕士学位，并通过英博夏尔大学（BPP）获得法律实践课程的研究生文凭。
+Binger于2019年加入丽莎律师行，负责的领域为移民类和诉讼类案件。同时，Binger是高IQ英国门萨（British Mensa）的一员。
+精通语言：英语和普通话</string>
+    
+    <key>mandy_ma</key>
+    <string>Mandy Ma</string>
+    <key>mandy_ma_post</key>
+    <string>实习律师</string>
+    <key>mandy_ma_details</key>
+    <string>Mandy拥有萨塞克斯大学的法律和商业学位，并持有英博夏尔大学的法律实践文凭。
+Mandy目前参与丽莎律师行的房产、移民和家庭法团队的工作。
+精通语言：英语，普通话</string>
+    
+    <key>renaldoda_costa</key>
+    <string>Renaldo Da Costa</string>
+    <key>renaldoda_costa_post</key>
+    <string>实习律师</string>
+    <key>renaldoda_costa_details</key>
+    <string>Renaldo拥有纽卡斯尔大学法学学士学位，并在英博夏尔大学完成了法律实践课程。
+Renaldo于2019年7月开始在丽莎律师行的移民团队工作。精通语言：英语，广东话，普通话</string>
+    
+    <key>daysi_munoz_ortega</key>
+    <string>Daysi Munoz-Ortega</string>
+    <key>daysi_munoz_ortega_post</key>
+    <string>律师助理</string>
+    <key>daysi_munoz_ortega_details</key>
+    <string>Daysi受英国特许法律执行学会认证，并在西伦敦大学获得法学学士学位。
+Daysi于2014年9月加入丽莎律师行，并在我们的移民、房产和诉讼团队工作。
+此外，Daysi还处理各种家庭法律案件。
+精通语言：英语，西班牙语</string>
+    
+    
+    <key>michaet_hsieh</key>
+    <string>谢立智</string>
+    <key>michaet_hsieh_post</key>
+    <string>律师助理</string>
+    <key>michaet_hsieh_details</key>
+    <string>谢助理持有英博夏尔大学的法学研究生文凭。
+谢助理自2018年5月起在丽莎律师行工作，是我们的房产部成员。
+精通语言：普通话，广东话，马来语</string>
+    
+    
+    <key>stephanie_chiu</key>
+    <string>赵晓晴</string>
+    <key>stephanie_chiu_post</key>
+    <string>律师助理</string>
+   <key>stephanie_chiu_details</key>
+   <string>赵助理拥有英国肯特大学的法学学士学位，并在英博夏尔大学完成了法律实践课程。
+赵助理目前在李依玲律师的督导下接受培训，并对房产领域有着浓厚兴趣。
+精通语言：英语，普通话，广东话</string>
+    
+    <key>surveyn_hoh</key>
+    <string>何翠云</string>
+    <key>surveyn_hoh_post</key>
+    <string>法务助理</string>
+    <key>surveyn_hoh_details</key>
+    <string>何助理于2017年9月加入丽莎律师行。
+何助理在住宅和商业房产方面有多年处理经验。
+自她加入丽莎律师行至今，已经成功处理了400多起案件。
+何助理在抵押贷款方面也有很强的专业知识，曾处理许多该领域的案件。
+精通语言：英语，普通话，广东话</string>
+    
+    <key>jessica_luo</key>
+    <string>罗嘉琪</string>
+    <key>jessica_luo_post</key>
+    <string>律师助理</string>
+    <key>jessica_luo_details</key>
+    <string>罗助理拥有伦敦大学学院（UCL）的英语语言学硕士学位，以及中国人民大学的英文文学学士学位。
+罗助理近期更获得了英国法律协会的移民和庇护认证，成为一名实习个案助理。
+罗助理于2019年8月加入丽莎律师行，主要负责移民领域，特别是计分制签证申请和商业移民。
+精通语言：英语，普通话，广东话</string>
+    
+    <key>shanshan_chen</key>
+    <string>Shanshan Chen</string>
+    <key>shanshan_chen_post</key>
+    <string>法务助理</string>
+    <key>shanshan_chen_details</key>
+    <string>Shanshan拥有英国纽卡斯尔大学的国际商法硕士学位和法学学士学位。
+Shanshan于2017年加入丽莎律师行，目前主要负责移民法和家庭法的案件。
+精通语言：英语，普通话</string>
+    
+    <key>leanne_zhu_zhou</key>
+    <string>Leanne Zhu Zhou</string>
+    <key>leanne_zhu_zhou_post</key>
+    <string>法务助理</string>
+    <key>leanne_zhu_zhou_details</key>
+    <string>Leanne毕业于拉夫堡大学，取得通信和媒体研究学士学位，随后获得英博夏尔大学的法学研究生文凭。
+Leanne是丽莎律师行丁传礼律师的助理，于2019年加入我们。主要职责包括接受客户的初步咨询，辅助丁律师和其他同事的案件处理。
+Leanne的业务领域包括移民、授权书、遗嘱和文件合法化。
+精通语言：英语，西班牙语，普通话，上海话</string>
+    
+    <key>mandy_chiangn</key>
+    <string>蒋凯雯</string>
+    <key>mandy_chiangn_post</key>
+    <string>法务助理</string>
+    <key>mandy_chiangn_details</key>
+    <string>蒋助理曾在香港取得商业管理学位。
+蒋助理于2018年4月开始为丽莎律师行工作，是高明岩律师的助理。
+蒋助理的工作范围包括接受客户委托，起草文件和信件，以及安排会议等。
+ 精通语言：英语，广东话，普通话</string>
+    
+    
+	<key>manager_director</key>
+	<string>常务董事/辩护律师</string>
+	<key>company_director</key>
+	<string>董事/房产部主管</string>
+	<key>company_director_solicitor</key>
+	<string>董事/律师</string>
+	<key>solicitor</key>
+	<string>律师</string>
+	<key>legal_assistance</key>
+	<string>法务助理</string>
+	<key>legal_assistant</key>
+	<string>实习律师</string>
+	<key>paralegal</key>
+	<string>律师助理</string>
+	<key>trainee_solicitor</key>
+	<string>实习律师</string>
+	<key>elin_detail</key>
+	<string>李律师于2015年获得律师资格，并自那时起便一直服务于丽莎律师行的房产部门。李律师曾于马来西亚获得消费者科学的学士学位，并在英国的西英格兰大学完成了法律和法律实践课程。
+李律师的实业经验包含了英国移民、住宅和商业房产、房东和房客纠纷处理。她目前带领的丽莎律师行房产部门，专精于所有住宅和商业房产处理，包括住宅房产的新建和租赁续期、商业房产的收购和处置等。
+精通语言：英语，普通话，广东话</string>
+	<key>chuanli_detail</key>
+	<string>丁律师于2009年获得律师资格，擅长英国移民、房产（住宅和商业）和诉讼领域。同时，在合同起草方面也具有丰富的经验。
+身为丽莎律师行的经营者，丁律师平时也会常规性为律师行的律师们提供内部培训。他卓越的法律知识和理解意味着他可以处理许多不同的案件并且提供有效并精准的法律建议。
+精通语言：英语和普通话</string>
+	<key>felix_detail</key>
+	<string>Felix在民事诉讼、移民法、房产法、遗嘱和人身伤害等法律方面拥有10多年的实业经验。
+Felix于2008年毕业于英国法学大学，自那时起获得律师资格。除了法律之外，他更拥有动物学和国际人权学位。
+精通语言：英语，意大利语</string>
+	<key>mingyan_detail</key>
+	<string>高律师于2010年取得律师资格，并自同年10月为丽莎律师行工作直到现在。高律师有着法学院学位，并且完成法学研究生文凭和法律实践课程。
+高律师的擅长领域有英国移民、商业和住宅房产。自她取得律师资格至今，已经成功为许多客户提供移民和房产事务的建议，并为当事人的案件取得最佳利益。
+精通语言：英语和普通话</string>
+	<key>stephanie_detail</key>
+	<string>石助理拥有法律硕士学位，并且自2015年1月以来就服务于丽莎律师行。石助理在中国是个已经取得律师资格的合格律师，并且对于英国移民法律有着浓厚良好的兴趣和知识。
+石助理在签证申请方面具有非常丰富的处理经验。难民庇护申请、签证续签和再申请、家庭团聚、人权申请、欧盟移民和移民上诉案件等，都是石助理的擅长领域。
+至今，石助理已经成功处理了至少超过500个移民类案件。
+精通语言：英语和普通话</string>
+	<key>veasta_detail</key>
+	<string>李助理拥有伦敦玛丽女王大学的银行与金融法学硕士学位，她在中国也有分别取得法律学士和硕士学位。
+李助理在中国具有从事4年的法律顾问经验。目前，李助理已经对于英国移民处理有着超过2年的经验，并且成功经手过至少200个移民案件。李助理更把她的专业触角延伸至房产处理领域。
+精通语言：英语和普通话</string>
+	<key>jessie_detail</key>
+	<string>邹助理毕业于西英格兰大学，于2016年完成她的法律学士学位。毕业后，她在马来西亚有过6个月的房产律师助理从事经验。
+其后，邹助理于2018年5月加入了丽莎律师行。她负责的领域为商业和住宅房产案件。
+精通语言：英语，普通话，广东话</string>
+	<key>kevin_detail</key>
+	<string>黄律师持有来自萨塞克斯大学的法律和商业学士双学位，并于伦敦玛丽女王大学获得税法硕士学位。其后，他更在英国法学大学（布鲁姆斯伯里学院）完成法律实践课程。
+黄律师自2018年9月于丽莎律师行开始他的实习合同，并为我们的移民和房产部门工作。
+精通语言：英语，普通话，广东话</string>
+	<key>sabrina_detail</key>
+	<string>袁助理具有来自伦敦大学亚非学院的国际与比较商法文学硕士学位，并且目前正在研读法律研究生文凭。她自2016年起在英国从事律师助理
+工作并专精于移民领域直至现在。
+此外，袁助理还有着在经济事务法庭担任法庭秘书和5年在中国境内律所担任律师助理和项目经理的工作履历。
+精通语言：英语和普通话</string>
+	<key>yitong_detail</key>
+	<string>郭律师有着英国文学学士和媒体研究硕士学位，并在2019年10月完成法律研究生文凭。
+郭律师于2018年9月加入丽莎律师行，有着丰富的住房和就业法律处理经验。目前她的专精领域为英国移民、诉讼、家庭和文件公证案件。
+精通语言：英语和普通话</string>
+    
+	<key>alert_name</key>
+	<string>請輸入有效名稱。</string>
+	<key>alert_email</key>
+	<string>請輸入電子郵件地址。</string>
+	<key>alert_validemail</key>
+	<string>請輸入有效的電子郵件地址。</string>
+	<key>alert_validphonenumber</key>
+	<string>請輸入有效的電話號碼。</string>
+	<key>alert_description</key>
+	<string>請輸入有效的案例描述。</string>
+	<key>scanner_validation</key>
+	<string>请添加扫描的图像以创建.</string>
+   <key>email_alert_placeholder</key>
+    <string>请将您的姓名或案件代码在此输入</string>
+    <key>email_alert_message</key>
+    <string>发送文件前，请先确认输入您的姓名或案件代码</string>
+    <key>scan_hint1</key>
+    <string>• 请您按照日期顺序依次扫描上传文件</string>
+    <key>scan_hint2</key>
+    <string>• 请您按照文件类型依序分类扫描上传</string>
+    <key>scan_hint3</key>
+    <string>• 请提供您的案件代码（如果有的话)</string>
+</dict>
+</plist>

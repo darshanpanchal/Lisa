@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15702" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15704"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="OpenSans-Bold.ttf">
+            <string>OpenSans-Bold</string>
+        </array>
+        <array key="OpenSans-Regular.ttf">
+            <string>OpenSans</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="default" indentationWidth="10" rowHeight="399" id="KGk-i7-Jjw" customClass="OurTeamTableViewCell" customModule="Lisas_Law" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="520" height="399"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="520" height="399"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Baq-8w-Lzh" customClass="ShadowView" customModule="Lisas_Law" customModuleProvider="target">
+                        <rect key="frame" x="0.0" y="5" width="520" height="389"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="NDM-1R-gQn">
+                                <rect key="frame" x="0.0" y="0.0" width="520" height="389"/>
+                                <subviews>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="LSj-Ph-x1p">
+                                        <rect key="frame" x="0.0" y="0.0" width="234" height="389"/>
+                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    </imageView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Chuanli Ding" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="lzr-Bp-jvE">
+                                        <rect key="frame" x="244" y="10" width="266" height="24"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="24" id="UdF-g8-ftd"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" name="OpenSans-Bold" family="Open Sans" pointSize="17"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Managing Director / Solicitor Advocate " textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="Pbc-re-UWW">
+                                        <rect key="frame" x="244" y="39" width="266" height="45"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="45" id="B2o-Wt-kuE"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" name="OpenSans-Bold" family="Open Sans" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qD1-BY-fyE">
+                                        <rect key="frame" x="244" y="84" width="266" height="240"/>
+                                        <string key="text">Chuanli qualified as a solicitor in 2009. He specialises in immigration, conveyancing (both residential and commercial) and Litigation. He also has extensive experience in contract drafting.Chuanli is currently head of the immigration department at Lisa's Law. He provides in-house training to caseworkers and his exceptional knowledge of Law means he can handle many different cases and provide effective and concise Legal advice.</string>
+                                        <fontDescription key="fontDescription" name="OpenSans" family="Open Sans" pointSize="17"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9XF-Ag-smC">
+                                        <rect key="frame" x="244" y="334" width="120" height="40"/>
+                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="120" id="0a3-I4-AfD"/>
+                                            <constraint firstAttribute="height" constant="40" id="roZ-lN-vxb"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" name="OpenSans-Bold" family="Open Sans" pointSize="17"/>
+                                        <state key="normal" title="Read More">
+                                            <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                    </button>
+                                </subviews>
+                                <color key="backgroundColor" red="0.074509803921568626" green="0.52549019607843139" blue="0.77647058823529413" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstItem="qD1-BY-fyE" firstAttribute="leading" secondItem="LSj-Ph-x1p" secondAttribute="trailing" constant="10" id="CDP-FG-bOh"/>
+                                    <constraint firstAttribute="trailing" secondItem="lzr-Bp-jvE" secondAttribute="trailing" constant="10" id="CHD-Ch-jqn"/>
+                                    <constraint firstItem="LSj-Ph-x1p" firstAttribute="centerY" secondItem="NDM-1R-gQn" secondAttribute="centerY" id="GV6-PG-h0P"/>
+                                    <constraint firstItem="lzr-Bp-jvE" firstAttribute="leading" secondItem="LSj-Ph-x1p" secondAttribute="trailing" constant="10" id="MmE-HZ-6Pi"/>
+                                    <constraint firstAttribute="bottom" secondItem="9XF-Ag-smC" secondAttribute="bottom" constant="15" id="QgM-cR-8tN"/>
+                                    <constraint firstItem="9XF-Ag-smC" firstAttribute="leading" secondItem="LSj-Ph-x1p" secondAttribute="trailing" constant="10" id="TW9-uS-W8K"/>
+                                    <constraint firstItem="LSj-Ph-x1p" firstAttribute="width" secondItem="NDM-1R-gQn" secondAttribute="width" multiplier="0.45" id="Xxf-BN-rq7"/>
+                                    <constraint firstAttribute="trailing" secondItem="qD1-BY-fyE" secondAttribute="trailing" constant="10" id="Zc8-VG-wCa"/>
+                                    <constraint firstItem="LSj-Ph-x1p" firstAttribute="height" secondItem="NDM-1R-gQn" secondAttribute="height" id="bz4-Zz-f99"/>
+                                    <constraint firstItem="qD1-BY-fyE" firstAttribute="top" secondItem="Pbc-re-UWW" secondAttribute="bottom" id="cmy-pV-ffk"/>
+                                    <constraint firstItem="LSj-Ph-x1p" firstAttribute="leading" secondItem="NDM-1R-gQn" secondAttribute="leading" id="gJG-6Z-Eud"/>
+                                    <constraint firstItem="9XF-Ag-smC" firstAttribute="top" secondItem="qD1-BY-fyE" secondAttribute="bottom" constant="10" id="gm2-5I-kkI"/>
+                                    <constraint firstItem="lzr-Bp-jvE" firstAttribute="top" secondItem="NDM-1R-gQn" secondAttribute="top" constant="10" id="iQa-m8-iNr"/>
+                                    <constraint firstAttribute="trailing" secondItem="Pbc-re-UWW" secondAttribute="trailing" constant="10" id="nbW-E7-td3"/>
+                                    <constraint firstItem="Pbc-re-UWW" firstAttribute="leading" secondItem="LSj-Ph-x1p" secondAttribute="trailing" constant="10" id="sUU-sg-N04"/>
+                                    <constraint firstItem="Pbc-re-UWW" firstAttribute="top" secondItem="lzr-Bp-jvE" secondAttribute="bottom" constant="5" id="yY4-g5-JQ1"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="NDM-1R-gQn" firstAttribute="leading" secondItem="Baq-8w-Lzh" secondAttribute="leading" id="FQa-LR-uXk"/>
+                            <constraint firstAttribute="trailing" secondItem="NDM-1R-gQn" secondAttribute="trailing" id="V8O-Qf-5Py"/>
+                            <constraint firstItem="NDM-1R-gQn" firstAttribute="top" secondItem="Baq-8w-Lzh" secondAttribute="top" id="rS6-f5-E2B"/>
+                            <constraint firstAttribute="bottom" secondItem="NDM-1R-gQn" secondAttribute="bottom" id="uPC-xJ-qLv"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="Baq-8w-Lzh" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="AnO-dJ-F46"/>
+                    <constraint firstAttribute="trailing" secondItem="Baq-8w-Lzh" secondAttribute="trailing" id="cwM-4V-ktu"/>
+                    <constraint firstAttribute="bottom" secondItem="Baq-8w-Lzh" secondAttribute="bottom" constant="5" id="qUj-Vw-SFU"/>
+                    <constraint firstItem="Baq-8w-Lzh" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="5" id="rWS-Y8-TKJ"/>
+                </constraints>
+            </tableViewCellContentView>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <connections>
+                <outlet property="buttonReadMore" destination="9XF-Ag-smC" id="Gcb-ZK-h7g"/>
+                <outlet property="containerView" destination="NDM-1R-gQn" id="B27-T6-lEl"/>
+                <outlet property="imgTeam" destination="LSj-Ph-x1p" id="gid-bM-4Xf"/>
+                <outlet property="lblDescription" destination="qD1-BY-fyE" id="W6n-Li-rag"/>
+                <outlet property="lblPost" destination="Pbc-re-UWW" id="Q6w-RD-qaT"/>
+                <outlet property="lblTeamName" destination="lzr-Bp-jvE" id="tNE-6p-N5J"/>
+            </connections>
+            <point key="canvasLocation" x="-11" y="61"/>
+        </tableViewCell>
+    </objects>
+</document>

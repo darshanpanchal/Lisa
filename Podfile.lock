@@ -1,0 +1,30 @@
+PODS:
+  - CropViewController (2.4.0)
+  - IQKeyboardManagerSwift (6.4.2)
+  - PDFGenerator (3.0.0)
+  - SDWebImage (5.1.1):
+    - SDWebImage/Core (= 5.1.1)
+  - SDWebImage/Core (5.1.1)
+
+DEPENDENCIES:
+  - CropViewController
+  - IQKeyboardManagerSwift
+  - PDFGenerator
+  - SDWebImage
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CropViewController
+    - IQKeyboardManagerSwift
+    - PDFGenerator
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  CropViewController: a090820b15fc3da68e694d7c192a4708c576828b
+  IQKeyboardManagerSwift: 79a3ec200dfb41cb66a89b8575417b5378107c5d
+  PDFGenerator: e00fd09ae8021e304b5672cf11bc28234fc626e7
+  SDWebImage: 96d7f03415ccb28d299d765f93557ff8a617abd8
+
+PODFILE CHECKSUM: 5bb8599b3b83fe6d06052ce2ff5b16afe75f3cb5
+
+COCOAPODS: 1.5.3

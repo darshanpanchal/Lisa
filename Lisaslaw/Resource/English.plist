@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>social_media</key>
+	<string>Social Media</string>
+	<key>contact_number</key>
+	<string>020 7928 0276</string>
+	<key>our_team</key>
+	<string>Our Team</string>
+	<key>contact_us</key>
+	<string>Contact Us</string>
+	<key>about_us</key>
+	<string>About Us</string>
+	<key>blog</key>
+	<string>Blog</string>
+	<key>connect_osprey</key>
+	<string>Connect to Osprey</string>
+	<key>check_case</key>
+	<string>Check Your Case</string>
+	<key>scan_doc</key>
+	<string>Scan Document</string>
+	<key>read_more</key>
+	<string>Read More</string>
+	<key>lisa_law</key>
+	<string>Lisa&apos;s Law Solicitors</string>
+	<key>lisa_address</key>
+	<string>13 London Rd, Elephant and Castle, London SE1 6JZ</string>
+	<key>click_to_scan</key>
+	<string>Click &quot;+&quot; To Scan Your Document</string>
+	<key>scan_image</key>
+	<string>Scan Image</string>
+	<key>camera</key>
+	<string>Camera</string>
+	<key>photos</key>
+	<string>Photos</string>
+	<key>cancel</key>
+	<string>Cancel</string>
+	<key>connect_ospreyDetail</key>
+	<string>If you are an existing client and you would like to access your documents through the Osprey portal please email your full name, email address and client reference number to portal@lisaslaw.co.uk and we will email you your secure log in details.</string>
+	<key>continue</key>
+	<string>Continue</string>
+	<key>yes</key>
+	<string>Yes</string>
+	<key>no</key>
+	<string>No</string>
+	<key>scan_back_alert</key>
+	<string>Please confirm scanned images will be removed on back.</string>
+	<key>alert</key>
+	<string>Alert</string>
+	<key>done</key>
+	<string>Done</string>
+	<key>new_enquiry</key>
+	<string>New Enquiry</string>
+	<key>name</key>
+	<string>Name</string>
+	<key>find_us</key>
+	<string>Find Us</string>
+	<key>email_address</key>
+	<string>Email address</string>
+	<key>phone number</key>
+	<string>Phone number</string>
+	<key>description</key>
+	<string>Please give a brief outline of your case and we will get back to you.</string>
+	<key>submit</key>
+	<string>Submit</string>
+	<key>about_us_detail2</key>
+	<string>Our philosophy adheres to the fact that no two client needs are the same. We pride ourselves on our ability to provide swift solutions to any legal problems or enquiries clients have. We are consistently achieving high targets to ensure our clients get 100% satisfaction with our provision of legal services.</string>
+	<key>about_us_detail1</key>
+	<string>Our team of solicitors are highly experienced legally qualified professionals. Our multilingual team speak a range of languages including but not limited to English, Mandarin, Cantonese, Spanish, and Italian. Our lawyers go above and beyond with continuous professional development, keeping up to date with changes in the law and various legislations to deliver consistently high quality and bespoke legal services to our range of clients.</string>
+	<key>checkout</key>
+	<string>Check out our Privacy Policy here</string>
+	<key>youtube_channel</key>
+	<string>Also, here is a link to our YouTube channel</string>
+	<key>here</key>
+	<string>here</string>
+	<key>chuanli_ding</key>
+	<string>Chuanli Ding</string>
+	<key>eli_lee</key>
+	<string>Elin Lee</string>
+	<key>felix_otouke</key>
+	<string>Felix Otuoke</string>
+	<key>mingyan_gao</key>
+	<string>Mingyan Gao</string>
+	<key>stephanie_shi</key>
+	<string>Stephanie Shi</string>
+	<key>veasta_li</key>
+	<string>Veasta Li</string>
+	<key>jessie_chow</key>
+	<string>Jessie Chow</string>
+	<key>kevin_wong</key>
+	<string>Kevin Wong</string>
+	<key>sabrina_yuan</key>
+	<string>Sabrina Yuan</string>
+	<key>yitong_guo</key>
+	<string>Yitong Guo</string>
+	<key>bhavini_bhatt</key>
+	<string>Bhavini Bhatt</string>
+	<key>bhavini_post</key>
+	<string>Immigration Supervisor</string>
+	<key>bhavini_details</key>
+	<string>Bhavini qualified as a solicitor in 2003 and has much experience in handling all kinds of immigration cases.
+Bhavini has a degree in LLB from Maharaja Sayajirao University in India.
+Bhavini joined us in September 2019 as Immigration Supervisor, handling cases herself and supervising the wider immigration team.
+Bhavini is fluent in English, Hindi, Urdu, Gujarati and Punjabi.</string>
+	<key>ellen_hall</key>
+	<string>Ellen Hall</string>
+	<key>ellen_post</key>
+	<string>Solicitor / Litigation Supervisor</string>
+	<key>ellen_details</key>
+	<string>Ellen has over 25 years-experience as a solicitor, including at Partner level at major national law firms in the UK.
+She joined Lisa&apos;s Law in July 2019 with a supervisory role in our litigation team.
+Ellen has successfully completed many litigation cases of various kinds, and has much experience with Privacy Council, Supreme Court, Court of Appeal, and High Court/County Court/Family Court/Magistrates Court proceedings.
+Ellen has a Law degree from University of London and post graduate qualification from College of Law, Chester.
+Ellen is fluent in English and Cantonese.</string>
+	<key>salina_lim</key>
+	<string>Salina Lim</string>
+	<key>salina_post</key>
+	<string>Registered Foreign Lawyer</string>
+	<key>salina_details</key>
+	<string>Salina completed a Bachelor of Laws from the Queensland University of Technology in 2011 and subsequently obtained a Graduate Diploma in Legal Practice in 2012.
+Salina began working at Lisa's Law Solicitors as a Registered Foreign Lawyer in August 2019.
+Salina is fluent in English and has a working proficiency in Mandarin.</string>
+	<key>lavinder_kaur</key>
+	<string>Lavinder Kaur</string>
+	<key>lavinder_post</key>
+	<string>Foreign Lawyer (admitted in Malaysia)</string>
+	<key>lavinder_details</key>
+	<string>Lavinder qualified as an advocate and solicitor of the High Court of Malaya in January 2017.
+Lavinder holds a degree in LLB from University of London and has completed the Certificate in Legal Practice in Malaysia and seeking to qualify as a solicitor in England and Wales.
+Lavinder began working with us in September 2018 and works in our litigation and conveyancing teams. She has much courtroom experience from her time in Malaysia.
+Lavinder is fluent in English, Mandarin, Cantonese, Bahasa Malaysia and Hakka dialect.</string>
+	<key>serena_qin</key>
+	<string>Serena Qin</string>
+	<key>serena_post</key>
+	<string>Immigration Account Manager</string>
+	<key>serena_details</key>
+	<string>Serena has passed the Office of the Immigration Services Commissioner exam, accredited as Level 1.
+Serena has an LLB degree from China University of Mining and Technology in Beijing and a Master's of Law degree from University College London.
+Serena began working with us in July 2018 and works within our immigration team.
+Serna is fluent in Mandarin and English.</string>
+	<key>caryn_toh</key>
+	<string>Caryn Toh</string>
+	<key>caryn_post</key>
+	<string>Trainee Solicitor</string>
+	<key>caryn_detais</key>
+	<string>Caryn has a degree in LLB from Oxford Brookes University and has completed the Legal Practice Course at the University of Law in Bristol.
+Caryn began her paralegal role with us in September 2018 and started her training contract in February 2019. Her areas of expertise includes immigration, conveyancing and litigation.
+She is on track to complete her training and become a qualified solicitor in September 2020.
+Caryn is fluent in English, Cantonese, Mandarin, and Malay.</string>
+	<key>binger_chen</key>
+	<string>Binger Chen</string>
+	<key>binger_post</key>
+	<string>Trainee Solicitor</string>
+	<key>binger_details</key>
+	<string>Binger has a masters of Law degree from the University of Reading and passed her Graduate Diploma in Law and Legal Practice Course through the BPP University of Law.
+Binger joined us in 2019 and is currently working in our immigration team.
+Binger is also a member of British Mensa.</string>
+	<key>mandy_ma</key>
+	<string>Mandy Ma</string>
+	<key>mandy_ma_post</key>
+	<string>Trainee Solicitor</string>
+	<key>mandy_ma_details</key>
+	<string>Mandy has a Law and Business degree from the University of Sussex and holds a Legal Practice Certificate from BPP University of Law.
+Mandy is currently working in our Conveyancing, Immigration, and Family Law teams.
+Mandy is fluent in English and Mandarin.</string>
+	<key>renaldoda_costa</key>
+	<string>Renaldo Da Costa</string>
+	<key>renaldoda_costa_post</key>
+	<string>Trainee Solicitor</string>
+	<key>renaldoda_costa_details</key>
+	<string>Renaldo has a degree in LLB from Newcastle University and has completed the Legal Practice Course at BPP University Law School in Manchester.
+Renaldo began working with us in July 2019 and works in our immigration team.
+Renaldo is fluent in English, Cantonese, and Mandarin.</string>
+	<key>daysi_munoz_ortega</key>
+	<string>Daysi Munoz-Ortega</string>
+	<key>daysi_munoz_ortega_post</key>
+	<string>Paralegal</string>
+	<key>daysi_munoz_ortega_details</key>
+	<string>Daysi is a Graduate member of the Chartered Institute of Legal Executives.
+Daysi has a degree in LLB from the University of West London.
+Daysi begun her Paralegal role with us in September 2014 and has worked in our immigration, conveyancing and litigation teams. In addition, Daysi also conducts family law cases.
+Daysi is fluent in English and Spanish.</string>
+	<key>michaet_hsieh</key>
+	<string>Michael Hsieh</string>
+	<key>michaet_hsieh_post</key>
+	<string>Paralegal</string>
+	<key>michaet_hsieh_details</key>
+	<string>Michael holds a Graduate Diploma in Law from BPP University of Law.
+Michael has been working at Lisa's Law since May 2018, and is a member of our conveyancing team.
+Michael is ﬂuent in Mandarin, Cantonese and Malay.</string>
+	<key>stephanie_chiu</key>
+	<string>Stephanie Chiu</string>
+	<key>stephanie_chiu_post</key>
+	<string>Paralegal</string>
+	<key>stephanie_chiu_details</key>
+	<string>Stephanie holds a degree in LLB from the University of Kent and has completed the Legal Practice Course at the BPP University in London.
+Stephanie is currently training under the supervision of Elin Lee and has a strong interest in conveyancing.
+Stephanie is fluent in English, Cantonese, and Mandarin.</string>
+	<key>surveyn_hoh</key>
+	<string>Surveyn Hoh</string>
+	<key>surveyn_hoh_post</key>
+	<string>Legal Assistant</string>
+	<key>surveyn_hoh_details</key>
+	<string>Surveyn joined us in September 2017.
+Surveyn has many years of experience in both residential and commercial conveyancing. During her time at Lisa's Law she has handled over 400 successful cases.
+Surveyn also has great expertise when it comes to mortgages, handling many cases in this ﬁeld.
+Surveyn is ﬂuent in English, Mandarin, and Cantonese.</string>
+	<key>jessica_luo</key>
+	<string>Jessica Luo</string>
+	<key>jessica_luo_post</key>
+	<string>Legal Assistant</string>
+	<key>jessica_luo_details</key>
+	<string>Jessica holds an MA in English Linguistics from University College London and a BA English Language and Literature degree from Renmin University of China. She has recently passed the Law Society Immigration and Asylum Accreditation as a trainee casework assistant.
+Jessica joined us as a Legal Assistant in August 2019, mainly focusing on immigration, especially PBS applications and business immigration.
+Jessica is ﬂuent in English, Mandarin, Cantonese.</string>
+	<key>leanne_zhu_zhou</key>
+	<string>Leanne Zhu Zhou</string>
+	<key>leanne_zhu_zhou_post</key>
+	<string>Legal Assistant</string>
+	<key>leanne_zhu_zhou_details</key>
+	<string>Leanne graduated with BSc in Communications and Media Studies from Loughborough University and followed this with a Graduate Diploma in Law from BPP University.
+Leanne is assistant to MD Chuanli Ding, joining in 2019. Responsibilities include taking initial enquiries from clients, supporting Ding and other caseworkers. Leanne&apos;s practice areas include immigration, powers of attorney, wills and document legalisation.
+Leanne is fluent in English, Spanish, Chinese Mandarin and Shanghainese.</string>
+	<key>mandy_chiangn</key>
+	<string>Mandy Chiang</string>
+	<key>mandy_chiangn_post</key>
+	<string>Legal Assistant</string>
+	<key>mandy_chiangn_details</key>
+	<string>Mandy studied Business Management in Hong Kong.
+Mandy started working for us in April 2018 and is Mingyan Gao's assistant.
+Mandy takes instructions from clients, drafts documents and letters, and books appointments.
+Mandy is ﬂuent in English, Cantonese and Mandarin.</string>
+	<key>shanshan_chen</key>
+	<string>Shanshan Chen</string>
+	<key>shanshan_chen_post</key>
+	<string>Legal Assistant</string>
+	<key>shanshan_chen_details</key>
+	<string>Shanshan holds a Master of Laws degree in International Commercial Law from Newcastle University as well as a Bachelor of Laws degree.
+Shanshan joined Lisa's Law in 2017, and is currently practising immigration law and family law.
+Shanshan is ﬂuent in English and Mandarin.</string>
+	<key>manager_director</key>
+	<string>Managing Director / Solicitor Advocate</string>
+	<key>company_director</key>
+	<string>Company Director / Head of Conveyancing</string>
+	<key>company_director_solicitor</key>
+	<string>Company Director / Solicitor</string>
+	<key>solicitor</key>
+	<string>Solicitor</string>
+	<key>legal_assistance</key>
+	<string>Legal Assistance</string>
+	<key>legal_assistant</key>
+	<string>Legal Assistant</string>
+	<key>paralegal</key>
+	<string>Paralegal</string>
+	<key>trainee_solicitor</key>
+	<string>Trainee Solicitor</string>
+	<key>chuanli_detail</key>
+	<string>Chuanli qualified as a solicitor in 2009. He specialises in immigration, conveyancing (both residential and commercial) and litigation. He also has extensive experience in contract drafting.
+Chuanli is currently head of the immigration department at Lisa's Law. He provides in-house training to caseworkers and his exceptional knowledge of law means he can handle many different cases and provide effective and concise legal advice.
+Chuanli is fluent in English and Mandarin.</string>
+	<key>elin_detail</key>
+	<string>Elin qualified as a solicitor in 2015 and has been working in our conveyancing team ever since. She has a degree in Consumer Science from a university in Malaysia and completed her degree in Law and Legal Practice Cause at the University of West England.
+Elin has experience in immigration, commercial and residential property, landlord and tenant disputes. She leads the conveyancing team, which specialises in residential property including new development and lease extension, and commercial property with business acquisitions and disposal.
+Elin is fluent in English, Mandarin and Cantonese.</string>
+	<key>felix_detail</key>
+	<string>Felix has over 10 years experience in civil litigation, immigration law, housing law, wills and personal injury to name just a few areas he has succeeded in.
+Felix qualified as a solicitor in 2008, graduating from the University of Law. He holds additional degrees in Zoology and International Human Rights.
+Felix is fluent in English and Italian.</string>
+	<key>mingyan_detail</key>
+	<string>Mingyan qualified as a solicitor in 2010 and has been working at Lisa's Law since October 2016. She has a degree from the College of Law and completed the Graduate Diploma in Law and the Legal Practice Course both at the College of Law. She was successful in seats in immigration, commercial property, and residential property.
+Mingyan has successfully advised on thousands of matters in immigration and many in commercial property and residential property since qualifying.
+Mingyan is fluent in English and Mandarin.</string>
+	<key>stephanie_detail</key>
+	<string>Stephanie has a master's degree in Law and has been working in our immigration team since January 2015. She is a qualified lawyer in China and has a strong interest and good knowledge of immigration law.
+Stephanie has much experience in visa applications, asylum claims, further submissions, family reunion cases, human rights, EEA matters and immigration appeal cases.
+She has handled more than 500 immigration matters in total.
+Stephanie is fluent in English and Mandarin.</string>
+	<key>veasta_detail</key>
+	<string>Veasta has an LLM degree from Queen Mary University of London in banking and finance law. She also has a master's degree and a bachelor's degree in law, achieved in China.
+Veasta has 4 years of in-house legal counsel experience in China. She has now been working in immigration law for more than 2 years and has successfully handled more than 200 cases. She has now expanded her reach to conveyancing cases as well.
+Veasta is fluent in English and Mandarin.</string>
+	<key>jessie_detail</key>
+	<string>Jessie graduated from the University of West England, completing her LLB Law in 2016. After graduation she worked as a conveyancing paralegal in Malaysia for six months.
+Jessie then joined us as a conveyancing paralegal in May 2018, she handles both commercial and residential cases.
+Jessie is fluent in English, Mandarin and Cantonese.</string>
+	<key>kevin_detail</key>
+	<string>Kevin obtained a double degree in LLB law and business from the University of Sussex and LLM tax law from Queen Mary University of London. He then completed his LPC course at the University of Law London Bloomsbury.
+Kevin began his training contract in September 2018 and works in our commercial property and immigration departments.
+Kevin is fluent in English, Cantonese, and Mandarin.</string>
+	<key>sabrina_detail</key>
+	<string>Sabrina has a master's degree in Comparative Commercial Law from SOAS University and is currently studying the graduate diploma in law at the BBP law school in Waterloo. She began as a paralegal in 2016 in the UK and has been working in immigration area ever since.
+In addition to this, she also has experience as a Court Secretary of the Court for Economic Affairs, and five years Paralegal and Project Manager in a Law firm in China.
+Sabrina is fluent in English and Mandarin.</string>
+	<key>yitong_detail</key>
+	<string>Yitong has completed her Graduate Diploma in Law at the University of Law, passing with commendation. She is now in the process of completing her Legal Practice Course. She has previously earned a bachelor's degree in English Literature and a master's degree in media studies.
+Yitong has gained various Pro Bono experience in housing and employment law. She joined Lisa's Law as a legal assistant in 2018 and has since been given a training contract with us. Yitong handles litigation, immigration and family cases. 
+Yitong is fluent in English and Mandarin.</string>
+	<key>alert_name</key>
+	<string>Please enter valid name.</string>
+	<key>alert_email</key>
+	<string>Please enter email address.</string>
+	<key>alert_validemail</key>
+	<string>Please enter valid email address.</string>
+	<key>alert_validphonenumber</key>
+	<string>Please enter valid phone number.</string>
+	<key>alert_description</key>
+	<string>Please enter valid case description.</string>
+	<key>scanner_validation</key>
+	<string>Please add scanned images to create pdf.</string>
+	<key>email_alert_placeholder</key>
+	<string>Enter Your Name or Case Number</string>
+	<key>email_alert_message</key>
+	<string>To send email please enter your name or case number</string>
+	<key>scan_hint1</key>
+	<string>• Please scan your documents in chronological order (by date)</string>
+	<key>scan_hint2</key>
+	<string>• Please scan your documents by category</string>
+	<key>scan_hint3</key>
+	<string>• Please provide your case reference number (if any)</string>
+</dict>
+</plist>
